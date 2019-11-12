@@ -1,0 +1,13 @@
+* {
+  font-family: sans-serif;
+  margin: 1em;
+}
+
+input {
+  display: block;
+  border: none;
+  font-size: 18px;
+  border-bottom: 1px solid #DDD;
+  width: 50%;
+  min-width: 500px;
+}
